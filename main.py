@@ -37,7 +37,6 @@ result = {
 	"Scissors : Scissors" : "Wow...nice tie and that's not a compliment."
 }
 
-
 # Program Start:
 refresh()
 bot_choice = choices[randrange(1, 4)]
